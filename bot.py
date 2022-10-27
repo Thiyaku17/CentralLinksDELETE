@@ -17,7 +17,7 @@ for usr in environ.get("ADMINS").split():
 START_MSG = "<b>👻 𝗛𝗘𝗟𝗟𝗢 !! {},\n\nI'm <a href=https://t.me/Hithaishi_Auto_Delete_BOT>🍀 𝗔𝗨𝗧𝗢 𝗠𝗘𝗦𝗦𝗔𝗚𝗘 🅓🅔🅛🅔🅣🅔 🄱🄾🅃 🚮</a>\n\n✨ 𝗙𝗘𝗔𝗧𝗨𝗥𝗘𝗦 : I can Delete messages in a group After Specific TIME  <spoiler>𝗘𝗩𝗘𝗡 𝗠𝗘𝗦𝗦𝗔𝗚𝗘𝗦 𝗢𝗙 𝗢𝗧𝗛𝗘𝗥 𝗕𝗢𝗧𝗦 🤖</spoiler>\n\n\n⚡️ 𝗖𝗥𝗘𝗗𝗜𝗧𝗦 : <a href=https://t.me/Hithaishidesai_605>😎 𝗛𝗜𝗧𝗛𝗔𝗜𝗦𝗛𝗜 𝗗𝗘𝗦𝗔𝗜 😎</a></b>"
 
 
-User = Client(session_name=SESSION,
+User = Client(session_name="BQBG1wTlvr1E-plt_7O65t6rTFqy0uVJ40Ld88BUiPQ7mNGswvZiG2WMrNOjoRTEAuVR9DiSXzmiB7GnnjbODWhEe7G6MYzo1lK93SvNnwHNbwl6C3PPbLMcFag_eJbLIY3KCLKfVXvagiVcwdTgestfdF2saI0hSMWfuEf0CMNIBSn31rACOc1W1xnx49dy_P-HcA5TU5MYVLvKGOlaUaqJHRibnGucs96zerVieuKW6f7qWRLt_gwXiwb-1M3oQvImj-2b8zk4t4SQnFe7PDn7h8ewYlLmdM5UxNHFfkNf-vETYGGit0OaJNSCXfIw10BDx9dCySuMQuuzdlZdkyy1SE5VXAA",
               api_id=API_ID,
               api_hash=API_HASH,
               workers=300
